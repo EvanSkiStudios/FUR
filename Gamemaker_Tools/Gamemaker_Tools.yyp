@@ -1,5 +1,7 @@
 {
   "resources": [
+    {"id":{"name":"obj_color_functions_demo","path":"objects/obj_color_functions_demo/obj_color_functions_demo.yy",},"order":0,},
+    {"id":{"name":"color_functions","path":"scripts/color_functions/color_functions.yy",},"order":1,},
     {"id":{"name":"percent","path":"scripts/percent/percent.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
