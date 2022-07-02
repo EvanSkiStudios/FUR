@@ -1,11 +1,15 @@
 {
   "resources": [
     {"id":{"name":"obj_color_functions_demo","path":"objects/obj_color_functions_demo/obj_color_functions_demo.yy",},"order":0,},
+    {"id":{"name":"shd_invertcolor","path":"shaders/shd_invertcolor/shd_invertcolor.yy",},"order":2,},
+    {"id":{"name":"shader_uniform","path":"scripts/shader_uniform/shader_uniform.yy",},"order":2,},
+    {"id":{"name":"shd_colorscale_purple","path":"shaders/shd_colorscale_purple/shd_colorscale_purple.yy",},"order":3,},
     {"id":{"name":"shader_setup_wrappers","path":"scripts/shader_setup_wrappers/shader_setup_wrappers.yy",},"order":2,},
     {"id":{"name":"color_functions","path":"scripts/color_functions/color_functions.yy",},"order":1,},
     {"id":{"name":"rm_shader_demo","path":"rooms/rm_shader_demo/rm_shader_demo.yy",},"order":1,},
     {"id":{"name":"percent","path":"scripts/percent/percent.yy",},"order":0,},
     {"id":{"name":"shd_pixelate","path":"shaders/shd_pixelate/shd_pixelate.yy",},"order":0,},
+    {"id":{"name":"shd_greyscale","path":"shaders/shd_greyscale/shd_greyscale.yy",},"order":1,},
     {"id":{"name":"obj_play_stock_video","path":"objects/obj_play_stock_video/obj_play_stock_video.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
