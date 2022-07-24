@@ -52,9 +52,10 @@
   ],
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles/MP4","resourceVersion":"1.0","name":"NYC Street Traffic Night B-Roll by Alexander Lorenz Winsordawson.mp4","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/MP4","resourceVersion":"1.0","name":"starship.mp4","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
-    "IDEVersion": "2022.5.1.16",
+    "IDEVersion": "2022.6.0.23",
   },
   "resourceVersion": "1.5",
   "name": "Gamemaker_Tools",
