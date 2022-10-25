@@ -11,12 +11,15 @@ if (video_status == 0){
 	var window_h = display_get_gui_height();
 	
 	if (shader_enabled){
-		wrapper_pixelate_shader();
+		//wrapper_pixelate_shader();
+		
+		wrapper_fxaa_shader(video_surf,8);
 	}
 	
 	draw_surface_stretched(video_surf, 0,0, window_w, window_h);
 	
-	shader_reset();
+	//shader_reset();
+	wrapper_fxaa_shader_cleanup();
 	
 	var stats = video_get_status();
 	if (stats == video_status_paused){
