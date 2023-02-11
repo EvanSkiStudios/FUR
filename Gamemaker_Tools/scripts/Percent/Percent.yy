@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "shader_uniform",
+  "name": "Percent",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Shader Functions",
-    "path": "folders/Scripts/Shader Functions.yy",
+    "name": "Math Functions",
+    "path": "folders/Scripts/Math Functions.yy",
   },
 }

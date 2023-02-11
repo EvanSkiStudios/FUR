@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "shader_uniform",
+  "name": "color_converts",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Shader Functions",
-    "path": "folders/Scripts/Shader Functions.yy",
+    "name": "Color Functions",
+    "path": "folders/Scripts/Color Functions.yy",
   },
 }
