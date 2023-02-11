@@ -21,6 +21,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Color Functions","folderPath":"folders/Scripts/Color Functions.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Math Functions","folderPath":"folders/Scripts/Math Functions.yy","order":0,},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shader Functions","folderPath":"folders/Scripts/Shader Functions.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Audio Functions","folderPath":"folders/Scripts/Audio Functions.yy","order":0,},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"starship.mp4","CopyToMask":-1,"filePath":"datafiles/MP4",},
@@ -41,6 +42,7 @@
     {"id":{"name":"color_converts","path":"scripts/color_converts/color_converts.yy",},"order":0,},
     {"id":{"name":"rm_shader_demo","path":"rooms/rm_shader_demo/rm_shader_demo.yy",},"order":1,},
     {"id":{"name":"shd_pixelate","path":"shaders/shd_pixelate/shd_pixelate.yy",},"order":0,},
+    {"id":{"name":"audio_collections","path":"scripts/audio_collections/audio_collections.yy",},"order":0,},
     {"id":{"name":"Point_between_two_numbers","path":"scripts/Point_between_two_numbers/Point_between_two_numbers.yy",},"order":0,},
     {"id":{"name":"shd_greyscale","path":"shaders/shd_greyscale/shd_greyscale.yy",},"order":1,},
     {"id":{"name":"obj_play_stock_video","path":"objects/obj_play_stock_video/obj_play_stock_video.yy",},"order":0,},

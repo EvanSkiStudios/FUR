@@ -1,13 +1,14 @@
 {
   "FolderOrderSettings": [
     {"name":"==========DEMOS=============","order":2,"path":"folders/==========DEMOS=============.yy",},
-    {"name":"Color_fuctions_demo","order":3,"path":"folders/Color_fuctions_demo.yy",},
+    {"name":"Color_fuctions_demo","order":4,"path":"folders/Color_fuctions_demo.yy",},
     {"name":"Rooms","order":1,"path":"folders/Color_fuctions_demo/Rooms.yy",},
-    {"name":"Shader_demo","order":4,"path":"folders/Shader_demo.yy",},
+    {"name":"Shader_demo","order":5,"path":"folders/Shader_demo.yy",},
     {"name":"Shaders","order":1,"path":"folders/Shaders.yy",},
     {"name":"Color Functions","order":4,"path":"folders/Scripts/Color Functions.yy",},
     {"name":"Math Functions","order":5,"path":"folders/Scripts/Math Functions.yy",},
     {"name":"Shader Functions","order":6,"path":"folders/Scripts/Shader Functions.yy",},
+    {"name":"Audio Functions","order":7,"path":"folders/Scripts/Audio Functions.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"decimal_to_rgb","order":1,"path":"scripts/decimal_to_rgb/decimal_to_rgb.yy",},
