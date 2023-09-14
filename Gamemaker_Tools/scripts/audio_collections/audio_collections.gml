@@ -1,6 +1,5 @@
+/// @desc Creates an collection of sound assets to refer to later, returns array
 function audio_collection_create() constructor{
-	/// @function audio_collection_create
-	/// @desc Creates an collection of sound assets to refer to later, returns array
 	
 	var array = [];
 	for (var i = 0; i < argument_count; ++i){
@@ -9,11 +8,11 @@ function audio_collection_create() constructor{
 	return array;
 }
 
+
+/// @desc Plays a sound from the index of the audio collection
+/// @param {array} audio collection
+/// @param {real} index sound in index of collection to play
 function audio_collection_play(audio_collection, index, priority=1, loops=false, argument_array=pointer_null){
-	/// @function audio_collection_play(audio_collection, index, [priority], [loops], [argument_array])
-	/// @desc Plays a sound from the index of the audio collection
-	/// @param {array} audio collection
-	/// @param {real} index
 	
 	if !(is_array(audio_collection)) throw( "variable "+string(audio_collection)+" is not an audio collection!");
 	
@@ -32,11 +31,9 @@ function audio_collection_play(audio_collection, index, priority=1, loops=false,
 }
 
 
-function audio_collection_play_all(audio_collection, priority=1, loops=false, argument_array=pointer_null){
-	/// @function audio_collection_play_all(audio_collection, [priority], [loops], [argument_array])
-	/// @desc Plays all sounds in the audio collection
-	/// @param {array} audio collection
-	
+/// @desc Plays all sounds in the audio collection
+/// @param {array} audio collection
+function audio_collection_play_all(audio_collection, priority=1, loops=false, argument_array=pointer_null){	
 	if !(is_array(audio_collection)) throw( "variable "+string(audio_collection)+" is not an audio collection!");
 	
 	var len = array_length(audio_collection);
@@ -60,11 +57,10 @@ function audio_collection_play_all(audio_collection, priority=1, loops=false, ar
 }
 
 
+/// @desc Stops a sound from the index of the audio collection
+/// @param {array} audio collection
+/// @param {real} index index of collection to stop sound
 function audio_collection_stop(audio_collection, index){
-	/// @function audio_collection_stop(audio_collection, index)
-	/// @desc Stops a sound from the index of the audio collection
-	/// @param {array} audio collection
-	/// @param {real} index
 	
 	if !(is_array(audio_collection)) throw( "variable "+string(audio_collection)+" is not an audio collection!");
 	
@@ -73,9 +69,8 @@ function audio_collection_stop(audio_collection, index){
 }
 
 
+/// @desc Stops all sounds in the audio collection
 function audio_collection_stop_all(audio_collection){
-	/// @function audio_collection_stop_all(audio_collection)
-	/// @desc Stops all sounds in the audio collection
 	
 	if !(is_array(audio_collection)) throw( "variable "+string(audio_collection)+" is not an audio collection!");
 	
