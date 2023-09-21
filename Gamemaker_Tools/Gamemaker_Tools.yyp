@@ -18,11 +18,11 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Audio Functions","folderPath":"folders/Scripts/Audio Functions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Color Functions","folderPath":"folders/Scripts/Color Functions.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Data Functions","folderPath":"folders/Scripts/Data Functions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Math Functions","folderPath":"folders/Scripts/Math Functions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shader Functions","folderPath":"folders/Scripts/Shader Functions.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shader_demo","folderPath":"folders/Shader_demo.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Data Functions","folderPath":"folders/Scripts/Data Functions.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"prorise.mp4","CopyToMask":-1,"filePath":"datafiles/MP4",},
@@ -31,12 +31,13 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.0.98",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"Structify","path":"scripts/Structify/Structify.yy",},},
     {"id":{"name":"decimal_to_rgb","path":"scripts/decimal_to_rgb/decimal_to_rgb.yy",},},
     {"id":{"name":"mix_colors","path":"scripts/mix_colors/mix_colors.yy",},},
+    {"id":{"name":"array_bounds","path":"scripts/array_bounds/array_bounds.yy",},},
     {"id":{"name":"obj_color_functions_demo","path":"objects/obj_color_functions_demo/obj_color_functions_demo.yy",},},
     {"id":{"name":"shd_invertcolor","path":"shaders/shd_invertcolor/shd_invertcolor.yy",},},
     {"id":{"name":"shader_uniform","path":"scripts/shader_uniform/shader_uniform.yy",},},
