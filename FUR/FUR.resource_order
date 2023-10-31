@@ -14,6 +14,7 @@
   "ResourceOrderSettings": [
     {"name":"decimal_to_rgb","order":1,"path":"scripts/decimal_to_rgb/decimal_to_rgb.yy",},
     {"name":"mix_colors","order":2,"path":"scripts/mix_colors/mix_colors.yy",},
+    {"name":"Evan_data_structures","order":3,"path":"scripts/Evan_data_structures/Evan_data_structures.yy",},
     {"name":"array_bounds","order":2,"path":"scripts/array_bounds/array_bounds.yy",},
     {"name":"shd_invertcolor","order":2,"path":"shaders/shd_invertcolor/shd_invertcolor.yy",},
     {"name":"shader_uniform","order":2,"path":"scripts/shader_uniform/shader_uniform.yy",},

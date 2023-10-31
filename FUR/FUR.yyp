@@ -37,6 +37,7 @@
     {"id":{"name":"Structify","path":"scripts/Structify/Structify.yy",},},
     {"id":{"name":"decimal_to_rgb","path":"scripts/decimal_to_rgb/decimal_to_rgb.yy",},},
     {"id":{"name":"mix_colors","path":"scripts/mix_colors/mix_colors.yy",},},
+    {"id":{"name":"Evan_data_structures","path":"scripts/Evan_data_structures/Evan_data_structures.yy",},},
     {"id":{"name":"array_bounds","path":"scripts/array_bounds/array_bounds.yy",},},
     {"id":{"name":"obj_color_functions_demo","path":"objects/obj_color_functions_demo/obj_color_functions_demo.yy",},},
     {"id":{"name":"shd_invertcolor","path":"shaders/shd_invertcolor/shd_invertcolor.yy",},},
@@ -56,8 +57,8 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_shader_demo","path":"rooms/rm_shader_demo/rm_shader_demo.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_shader_demo","path":"rooms/rm_shader_demo/rm_shader_demo.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
