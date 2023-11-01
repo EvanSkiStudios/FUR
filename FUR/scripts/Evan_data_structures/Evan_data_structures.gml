@@ -24,7 +24,18 @@ function es_grid_get(es_grid,r,c){
 }
 
 function es_grid_set(es_grid,r,c, val){
-	return (es_grid[r][c] = val);	
+	es_grid[r][c] = val;	
+}
+
+function es_grid_clear(es_grid, val){
+	var r = es_grid_get_rows(es_grid);
+	var c = es_grid_get_columns(es_grid);
+	
+	for (var i = 0; i < r; ++i){
+		for (var j = 0; j < c; ++j){
+		es_grid[i][j] = val;
+		}
+	}	
 }
 
 //=============================================================
@@ -44,6 +55,10 @@ show_debug_message(array);
 es_grid_set(array,3,3,7);
 
 show_message(es_grid_get(array, 3, 3));
+
+show_debug_message(array);
+
+es_grid_clear(array,9);
 
 show_debug_message(array);
 
