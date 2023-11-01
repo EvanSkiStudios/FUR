@@ -53,7 +53,6 @@
     {"id":{"name":"shd_greyscale","path":"shaders/shd_greyscale/shd_greyscale.yy",},},
     {"id":{"name":"obj_play_stock_video","path":"objects/obj_play_stock_video/obj_play_stock_video.yy",},},
     {"id":{"name":"Percent","path":"scripts/Percent/Percent.yy",},},
-    {"id":{"name":"shd_fxaa","path":"shaders/shd_fxaa/shd_fxaa.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

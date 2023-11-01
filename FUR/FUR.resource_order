@@ -25,6 +25,5 @@
     {"name":"Point_between_two_numbers","order":1,"path":"scripts/Point_between_two_numbers/Point_between_two_numbers.yy",},
     {"name":"shd_greyscale","order":1,"path":"shaders/shd_greyscale/shd_greyscale.yy",},
     {"name":"Percent","order":2,"path":"scripts/Percent/Percent.yy",},
-    {"name":"shd_fxaa","order":4,"path":"shaders/shd_fxaa/shd_fxaa.yy",},
   ],
 }
