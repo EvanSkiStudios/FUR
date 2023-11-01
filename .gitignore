@@ -1,2 +1,2 @@
 # ignore large files
-# FUR/datafiles/MP4
+*.mp4
