@@ -1,13 +1,13 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "color_functions_demo",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_7E32ADEA","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7E32ADEA","path":"rooms/color_functions_demo/color_functions_demo.yy",},
   ],
   "isDnd": false,
   "layers": [

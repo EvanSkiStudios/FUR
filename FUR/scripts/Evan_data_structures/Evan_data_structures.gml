@@ -66,6 +66,7 @@ function es_grid_clear(es_grid, val){
 
 
 //=============================================================
+/*
 
 array = es_grid_create(10,10,0);
 

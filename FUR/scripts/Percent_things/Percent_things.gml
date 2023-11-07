@@ -11,13 +11,17 @@ function percent(per=100,value=100){
 	return_percent = (percentage * value);
 	
 	return(return_percent);
-	
-	/*
-	//example code
-	var per = percent(20,500);
-	show_message(per);
-
-	game_end()
-	*/
-
 }
+
+/*
+//example code
+var per = percent(20,500);
+show_message(per);
+
+game_end()
+*/
+
+
+/*
+hp % of MAX_hp
+*/

@@ -24,6 +24,6 @@
     {"name":"rm_shader_demo","order":1,"path":"rooms/rm_shader_demo/rm_shader_demo.yy",},
     {"name":"Point_between_two_numbers","order":1,"path":"scripts/Point_between_two_numbers/Point_between_two_numbers.yy",},
     {"name":"shd_greyscale","order":1,"path":"shaders/shd_greyscale/shd_greyscale.yy",},
-    {"name":"Percent","order":2,"path":"scripts/Percent/Percent.yy",},
+    {"name":"Percent_things","order":2,"path":"scripts/Percent_things/Percent_things.yy",},
   ],
 }

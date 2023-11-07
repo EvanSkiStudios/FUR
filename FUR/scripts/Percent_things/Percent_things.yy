@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Percent",
+  "name": "Percent_things",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
