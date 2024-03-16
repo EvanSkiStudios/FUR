@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "Evan_data_structures",
+  "name": "in_function",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
