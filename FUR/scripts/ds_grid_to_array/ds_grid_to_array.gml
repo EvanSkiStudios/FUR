@@ -2,7 +2,7 @@
 /// @param {real} rows the amount of rows in the grid
 /// @param {real} columns the amount of columns in the grid
 /// @param {any} [value] the default value to fill the grid
-/// @returns {Array<>}
+/// @returns {Array<any>}
 function es_grid_create(rows,columns,val=undefined){
 	if (rows <= 0) show_error(string("<Can not create grid with row size of {0}>",rows),0);
 	if (columns <= 0) show_error(string("<Can not create grid with column size of {0}>",columns),0);

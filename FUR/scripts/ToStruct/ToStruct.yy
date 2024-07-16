@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "ToStruct",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Data Functions",
-    "path": "folders/Scripts/Data Functions.yy",
+  "$GMScript":"v1",
+  "%Name":"ToStruct",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ToStruct",
+  "parent":{
+    "name":"Data Functions",
+    "path":"folders/Scripts/Data Functions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

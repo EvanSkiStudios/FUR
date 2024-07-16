@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "Percent_things",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Math Functions",
-    "path": "folders/Scripts/Math Functions.yy",
+  "$GMScript":"v1",
+  "%Name":"Percent_things",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Percent_things",
+  "parent":{
+    "name":"Math Functions",
+    "path":"folders/Scripts/Math Functions.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

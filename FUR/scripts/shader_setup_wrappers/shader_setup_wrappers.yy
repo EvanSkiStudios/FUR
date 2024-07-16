@@ -1,11 +1,13 @@
 {
-  "resourceType": "GMScript",
-  "resourceVersion": "1.0",
-  "name": "shader_setup_wrappers",
-  "isCompatibility": false,
-  "isDnD": false,
-  "parent": {
-    "name": "Shader_demo",
-    "path": "folders/Shader_demo.yy",
+  "$GMScript":"v1",
+  "%Name":"shader_setup_wrappers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"shader_setup_wrappers",
+  "parent":{
+    "name":"Shader_demo",
+    "path":"folders/Shader_demo.yy",
   },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
